@@ -1,14 +1,14 @@
 {
-  "name": "Falcon-Api UI",
+  "name": "HanzAPI",
   "version": "v1.0.0",
-  "description": "Simple and easy to use API.",
+  "description": "Simple and easy to use HanzAPI.",
   "bannerImage": "/src/banner.jpg",
   "header": {
     "status": "Online!"
   },
   "apiSettings": {
-    "creator": "FlowFalcon", 
-    "apikey": ["falcon-api"]
+    "creator": "HanzPedia", 
+    "apikey": ["hanz-api"]
   },
   "categories": [
     {
